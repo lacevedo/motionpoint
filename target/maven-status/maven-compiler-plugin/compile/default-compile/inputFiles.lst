@@ -1,0 +1,15 @@
+D:\motion\motiontest\src\main\java\org\luis\api\service\Translate.java
+D:\motion\motiontest\src\main\java\org\luis\api\App.java
+D:\motion\motiontest\src\main\java\org\luis\api\data\TranslateRequestDao.java
+D:\motion\motiontest\src\main\java\org\luis\api\service\YahooTranslate.java
+D:\motion\motiontest\src\main\java\org\luis\api\domain\TranslateRequest.java
+D:\motion\motiontest\src\main\java\org\luis\api\service\dictionary\SpanishToEnglishDictionary.java
+D:\motion\motiontest\src\main\java\org\luis\api\data\UserDao.java
+D:\motion\motiontest\src\main\java\org\luis\api\data\Dao.java
+D:\motion\motiontest\src\main\java\org\luis\api\service\dictionary\Dictionary.java
+D:\motion\motiontest\src\main\java\org\luis\api\service\exception\DictionaryNotAvailableException.java
+D:\motion\motiontest\src\main\java\org\luis\api\service\dictionary\AbstractDictionary.java
+D:\motion\motiontest\src\main\java\org\luis\api\domain\User.java
+D:\motion\motiontest\src\main\java\org\luis\api\service\dictionary\DictionaryFactory.java
+D:\motion\motiontest\src\main\java\org\luis\api\util\Language.java
+D:\motion\motiontest\src\main\java\org\luis\api\service\dictionary\EnglishToSpanishDictionary.java
