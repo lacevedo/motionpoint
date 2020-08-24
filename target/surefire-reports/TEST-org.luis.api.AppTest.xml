@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="org.luis.api.AppTest" time="0.069" tests="5" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="org.luis.api.AppTest" time="0.061" tests="5" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="14"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.class.path" value="D:\motion\motiontest\target\test-classes;D:\motion\motiontest\target\classes;d:\resume\maven_repository\junit\junit\4.11\junit-4.11.jar;d:\resume\maven_repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.class.path" value="D:\motion2\motionpoint\target\test-classes;D:\motion2\motionpoint\target\classes;d:\resume\maven_repository\junit\junit\4.11\junit-4.11.jar;d:\resume\maven_repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -15,9 +15,9 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-14.0.1\bin"/>
-    <property name="sun.java.command" value="C:\Users\samsung\AppData\Local\Temp\surefire6413172754521381729\surefirebooter9257264623959486215.jar C:\Users\samsung\AppData\Local\Temp\surefire6413172754521381729 2020-08-24T06-40-26_143-jvmRun1 surefire9902258110470286157tmp surefire_018162940999755428548tmp"/>
+    <property name="sun.java.command" value="C:\Users\samsung\AppData\Local\Temp\surefire12099879204796100415\surefirebooter3987180267517431172.jar C:\Users\samsung\AppData\Local\Temp\surefire12099879204796100415 2020-08-24T07-02-11_532-jvmRun1 surefire14608829319171064237tmp surefire_0678633221495157419tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="D:\motion\motiontest\target\test-classes;D:\motion\motiontest\target\classes;d:\resume\maven_repository\junit\junit\4.11\junit-4.11.jar;d:\resume\maven_repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="surefire.test.class.path" value="D:\motion2\motionpoint\target\test-classes;D:\motion2\motionpoint\target\classes;d:\resume\maven_repository\junit\junit\4.11\junit-4.11.jar;d:\resume\maven_repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\samsung"/>
     <property name="user.language" value="en"/>
@@ -25,12 +25,12 @@
     <property name="java.version.date" value="2020-04-14"/>
     <property name="java.home" value="C:\Program Files\Java\jdk-14.0.1"/>
     <property name="file.separator" value="\"/>
-    <property name="basedir" value="D:\motion\motiontest"/>
+    <property name="basedir" value="D:\motion2\motionpoint"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\samsung\AppData\Local\Temp\surefire6413172754521381729\surefirebooter9257264623959486215.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\samsung\AppData\Local\Temp\surefire12099879204796100415\surefirebooter3987180267517431172.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="14.0.1+7"/>
@@ -44,7 +44,7 @@
     <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
     <property name="java.io.tmpdir" value="C:\Users\samsung\AppData\Local\Temp\"/>
     <property name="java.version" value="14.0.1"/>
-    <property name="user.dir" value="D:\motion\motiontest"/>
+    <property name="user.dir" value="D:\motion2\motionpoint"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="sun.os.patch.level" value=""/>
@@ -55,9 +55,9 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="58.0"/>
   </properties>
-  <testcase name="testTranslateEnglishSpanish" classname="org.luis.api.AppTest" time="0.011"/>
-  <testcase name="testTranslateSpanishEnglish" classname="org.luis.api.AppTest" time="0.001"/>
+  <testcase name="testTranslateEnglishSpanish" classname="org.luis.api.AppTest" time="0.01"/>
+  <testcase name="testTranslateSpanishEnglish" classname="org.luis.api.AppTest" time="0.002"/>
   <testcase name="testTranslateWordNotInDictionary" classname="org.luis.api.AppTest" time="0.002"/>
-  <testcase name="testDictionaryNotAvailableExceptio" classname="org.luis.api.AppTest" time="0.002"/>
+  <testcase name="testDictionaryNotAvailableExceptio" classname="org.luis.api.AppTest" time="0.001"/>
   <testcase name="testAllPropertiesSetforRequest" classname="org.luis.api.AppTest" time="0.002"/>
 </testsuite>
