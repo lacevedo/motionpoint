@@ -1,7 +1,0 @@
-org.luis.api
-org.luis.api.data
-org.luis.api.domain
-org.luis.api.service
-org.luis.api.service.dictionary
-org.luis.api.service.exception
-org.luis.api.util

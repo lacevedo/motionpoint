@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"org.luis.api"},{"l":"org.luis.api.data"},{"l":"org.luis.api.domain"},{"l":"org.luis.api.service"},{"l":"org.luis.api.service.dictionary"},{"l":"org.luis.api.service.exception"},{"l":"org.luis.api.util"}]
